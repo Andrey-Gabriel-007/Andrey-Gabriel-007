@@ -1,6 +1,3 @@
-### Olá!👋
-
-
 # AndreyGabriel
 <div align="center">
   <a href="https://github.com/Andrey-Gabriel-007">
